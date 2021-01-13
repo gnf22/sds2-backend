@@ -20,6 +20,8 @@
   ],
   "rules": {
     "prettier/prettier": "error",
+    "class-methods-use-this": "off",
+    "@typescript-eslint/no-empty-function": "off",
     "import/extensions": [
       "error",
       "ignorePackages",
